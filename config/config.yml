@@ -1,0 +1,11 @@
+---
+client:
+  hosts:
+  #  - elasticsearch
+   - 172.17.0.1
+  port: 9200
+# logging:
+#   loglevel: INFO
+#   logfile: "/curator/logs/actions.log"
+#   logformat: default
+#   blacklist: ['elasticsearch', 'urllib3']
